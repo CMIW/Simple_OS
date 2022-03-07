@@ -1,10 +1,10 @@
 
 # Simple OS
 
-![GitHub repo size](https://img.shields.io/github/repo-size/CMIW/Simple-OS)
-![GitHub contributors](https://img.shields.io/github/contributors/CMIW/Simple-OS)
-![GitHub stars](https://img.shields.io/github/stars/CMIW/Simple-OS?style=social)
-![GitHub forks](https://img.shields.io/github/forks/CMIW/Simple-OS?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/CMIW/Simple_OS)
+![GitHub contributors](https://img.shields.io/github/contributors/CMIW/Simple_OS)
+![GitHub stars](https://img.shields.io/github/stars/CMIW/Simple_OS?style=social)
+![GitHub forks](https://img.shields.io/github/forks/CMIW/Simple_OS?style=social)
 
 This project is a small operating system in the [Rust programming language](https://www.rust-lang.org/) following the [Writting an OS in Rust](https://os.phil-opp.com/) series.
 
