@@ -1,0 +1,12 @@
+[unstable]
+# tells cargo to recompile core and compiler_builtins libraries.
+build-std = ["core", "compiler_builtins"]
+# tells cargo to enable memory related features in compiler_builtins
+build-std-features = ["compiler-builtins-mem"]
+
+[build]
+# tells cargo to override the default target for the custom target
+target = "x86_64-simple_os.json"
+
+[target.'cfg(target_os = "none")']
+runner = "bootimage runner"
