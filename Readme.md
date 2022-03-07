@@ -26,4 +26,4 @@ Linux<br>
 After building, if there where no errors, run ```qemu-system-x86_64 -drive format=raw,file=target/x86_64-simple_os/debug/bootimage-simple_os.bin```
 
 ## Kernel Hello World!
-![Hello World on qemu-system-x86_64](https://github.com/CMIW/Simple_OS.git/Kernel-Hello-World!.png)
+![Hello World on qemu-system-x86_64](https://github.com/CMIW/Simple_OS/Kernel-Hello-World!.png)
