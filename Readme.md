@@ -29,3 +29,6 @@ After building, if there where no errors, run ```qemu-system-x86_64 -drive forma
 ![Hello World on qemu-system-x86_64](https://github.com/CMIW/Simple_OS/blob/main/Kernel-Hello-World!.png)
 
 [aarch64](https://krinkinmu.github.io/2020/12/13/adding-rust-to-aarch64.html)
+[Booting AArch64 Linux](https://www.kernel.org/doc/html/latest/arm64/booting.html)
+[Raspberry Pi Bare Bones](https://wiki.osdev.org/Raspberry_Pi_Bare_Bones#Booting_the_Kernel)
+[Raspberry Pi Bare Bones Rust](https://wiki.osdev.org/Raspberry_Pi_Bare_Bones_Rust)
