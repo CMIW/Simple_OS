@@ -6,7 +6,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/CMIW/Simple_OS?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/CMIW/Simple_OS?style=social)
 
-This project is a small operating system in the [Rust programming language](https://www.rust-lang.org/) following the [Writting an OS in Rust](https://os.phil-opp.com/) series.
+This project is an experiment to learn Kernel and OS development concepts. It's a small operating system in the [Rust programming language](https://www.rust-lang.org/) following the [Writting an OS in Rust](https://os.phil-opp.com/) series. It only supports x86.
 
 ## Requirements
 - Linux system
@@ -27,3 +27,5 @@ After building, if there where no errors, run ```qemu-system-x86_64 -drive forma
 
 ## Kernel Hello World!
 ![Hello World on qemu-system-x86_64](https://github.com/CMIW/Simple_OS/blob/main/Kernel-Hello-World!.png)
+
+[aarch64](https://krinkinmu.github.io/2020/12/13/adding-rust-to-aarch64.html)
