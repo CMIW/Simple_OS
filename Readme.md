@@ -28,7 +28,13 @@ After building, if there where no errors, run ```qemu-system-x86_64 -drive forma
 ## Kernel Hello World!
 ![Hello World on qemu-system-x86_64](https://github.com/CMIW/Simple_OS/blob/main/Kernel-Hello-World!.png)
 
-[aarch64](https://krinkinmu.github.io/2020/12/13/adding-rust-to-aarch64.html)
-[Booting AArch64 Linux](https://www.kernel.org/doc/html/latest/arm64/booting.html)
-[Raspberry Pi Bare Bones](https://wiki.osdev.org/Raspberry_Pi_Bare_Bones#Booting_the_Kernel)
-[Raspberry Pi Bare Bones Rust](https://wiki.osdev.org/Raspberry_Pi_Bare_Bones_Rust)
+
+## Some sources
+[aarch64](https://krinkinmu.github.io/2020/12/13/adding-rust-to-aarch64.html)<br>
+[Booting AArch64 Linux](https://www.kernel.org/doc/html/latest/arm64/booting.html)<br>
+[Raspberry Pi Bare Bones](https://wiki.osdev.org/Raspberry_Pi_Bare_Bones#Booting_the_Kernel)<br>
+[Raspberry Pi Bare Bones Rust](https://wiki.osdev.org/Raspberry_Pi_Bare_Bones_Rust)<br>
+[Writing my own Bootloader](https://dev.to/frosnerd/writing-my-own-boot-loader-3mld)<br>
+[os-tutorial](https://github.com/cfenollosa/os-tutorial)<br>
+[Writing a Simple Operating System — from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)<br>
+https://github.com/ababo/arwen
